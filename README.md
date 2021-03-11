@@ -6,6 +6,8 @@
   - A person who values collaboration. 👯
   - A person with positive mind 😄
 
+## MY HISTORY CARD
+
 <!--
 **JMcunst/JMcunst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +30,8 @@ Here are some ideas to get you started:
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJMcunst&count_bg=%23509FE5&title_bg=%23B9C5EB&icon=bilibili.svg&icon_color=%23312082&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+## 📫 CONTACT ME
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007785341431)](https://www.facebook.com/profile.php?id=100007785341431)
+
