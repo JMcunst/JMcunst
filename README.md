@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 📫 CONTACT ME
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=round&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007785341431)](https://www.facebook.com/profile.php?id=100007785341431)
-[![Instagram Badge](https://img.shields.io/badge/instagram-ff00bf?style=round&logo=instagram&link=https://www.instagram.com/bingbi_h)](https://www.instagram.com/bingbi_h)
+[![Instagram Badge](https://img.shields.io/badge/instagram-ff00bf?style=round&logo=instagram&logoColor=white&link=https://www.instagram.com/bingbi_h)](https://www.instagram.com/bingbi_h)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=round&logo=youtube&link=https://www.youtube.com/channel/UC8P4ufZvET6rZeA2sPHDtyA)](https://www.youtube.com/channel/UC8P4ufZvET6rZeA2sPHDtyA)
 
 
