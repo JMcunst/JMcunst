@@ -1,12 +1,12 @@
 ## Hi there, I am Jeongmok Hwang 👋
 
-### Development Artist ✨
+### ✨Development Artist ✨
 
   - A person who realizes ideas. 💬
   - A person who values collaboration. 👯
   - A person with positive mind 😄
 
-### MY HISTORY CARD
+### 🌱MY HISTORY CARD
 
 <!--
 **JMcunst/JMcunst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
