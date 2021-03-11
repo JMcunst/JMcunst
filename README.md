@@ -3,8 +3,8 @@
 ### Development Artist ✨
 
  *A person who realizes ideas. 💬
- *A person who values collaboration. 👯
- *A person with positive mind 😄
+  A person who values collaboration. 👯
+  A person with positive mind 😄
 
 <!--
 **JMcunst/JMcunst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
