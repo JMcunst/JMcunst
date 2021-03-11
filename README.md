@@ -2,7 +2,7 @@
 
 ### Development Artist ✨
 
- *A person who realizes ideas. 💬
+ * - A person who realizes ideas. 💬
   - A person who values collaboration. 👯
   - A person with positive mind 😄
 
