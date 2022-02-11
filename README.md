@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=round&logo=youtube&link=https://www.youtube.com/channel/UC8P4ufZvET6rZeA2sPHDtyA)](https://www.youtube.com/channel/UC8P4ufZvET6rZeA2sPHDtyA)
 
 
-### My Gitlab Commit in 2021 
+### 👀 My Gitlab Commit in 2021 👀
 <img src="https://user-images.githubusercontent.com/17956765/153533031-e9d644bb-6089-4f91-a12c-fa1e40c75a44.jpg" width="66%" height="66%">
 
 <img src="https://user-images.githubusercontent.com/17956765/153533096-2aed8abc-6e3b-466d-a81c-25364f8ec318.jpg" width="66%" height="66%">
