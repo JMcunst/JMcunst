@@ -38,4 +38,9 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=round&logo=youtube&link=https://www.youtube.com/channel/UC8P4ufZvET6rZeA2sPHDtyA)](https://www.youtube.com/channel/UC8P4ufZvET6rZeA2sPHDtyA)
 
 
+### My Gitlab Commit in 2021 
+
+![Uploading 황정목_대교AIO프로젝트_commit이력.jpg…]![황정목_이브릿지월드_commit이력](https://user-images.githubusercontent.com/17956765/153532955-5ff9ccf7-c20f-4d1e-8b65-1d827f6768ba.jpg)
+()
+
 
