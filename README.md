@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 
 ### My Gitlab Commit in 2021 
+<img src="https://user-images.githubusercontent.com/17956765/153533031-e9d644bb-6089-4f91-a12c-fa1e40c75a44.jpg" width="24%" height="24%">
 
-![Uploading 황정목_대교AIO프로젝트_commit이력.jpg…]![황정목_이브릿지월드_commit이력](https://user-images.githubusercontent.com/17956765/153532955-5ff9ccf7-c20f-4d1e-8b65-1d827f6768ba.jpg)
-()
+<img src="https://user-images.githubusercontent.com/17956765/153533096-2aed8abc-6e3b-466d-a81c-25364f8ec318.jpg" width="24%" height="24%">
 
 
